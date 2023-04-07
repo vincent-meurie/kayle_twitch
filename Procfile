@@ -1,1 +1,0 @@
-worker: commands_handler.js
