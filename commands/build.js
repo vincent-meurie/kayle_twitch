@@ -1,3 +1,3 @@
 exports.run = (client, message, args, tags, channel, self) => {
-    client.say(channel, `Le nouveau build (depuis le rework Rappel Mortel) : Berserker -> Estropieur -> Plaque du Mort -> Couperet Noir -> Force de la Nature -> Gage de Sterak`)
+    client.say(channel, `Le build AP : Berzerk -> dent de nashor -> Créateur de faille -> Zhonya -> Rabadon -> bâton du vide. Le build AD : Berzerk -> Kraken -> Au bout du rouleau -> serylda -> soif de sang -> manteau de la nuit`)
 }
